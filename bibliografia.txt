@@ -1,4 +1,9 @@
+
 Chacon, S. and Starub, B. Pro Git. Apress
 
-
 Loeliger, J. and McCullough, M. Version control with Git. O'Reilly.
+
+Scott Chacon and Ben Starub. Pro Git.Apress
+
+Ryan Hodson Ry´s Git Tutorial.Smashwords(2014)  
+
